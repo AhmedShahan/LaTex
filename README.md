@@ -1,10 +1,10 @@
 # **LaTex**
 
 ## What is LaTex
-* Pronounced as “Lay tech” or “Leh tech” not “Lay teks/ Lay tex”
-* Document preparation system for high quality typesetting
+* Pronounced as **“Lay tech”** or __“Leh tech”__ not __“Lay teks/ Lay tex”__
+* Document preparation system for high quality __typesetting__
 
-* Most often used to produce technical or scientific documents.
+* Most often used to produce __technical__ or __scientific documents.__
 
 * Normally used for almost any form of publishing.
 
