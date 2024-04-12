@@ -30,3 +30,12 @@
     * Does a good job of calculating anf graph ploting, vary user friendly but expensive. 
 * TextShop for Mac
     * Downlod for free from http://www.uoregon.edu/~koch/texshop
+
+## LaTex in Overleaf
+### Why in Overleaf
+* No need any installation
+* Its free to use
+* All the functionalities can be * performed. 
+* Onlined based
+* Multiple person can share the same file
+
