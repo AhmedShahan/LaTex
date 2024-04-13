@@ -39,3 +39,69 @@
 * Onlined based
 * Multiple person can share the same file
 
+
+## LaTex vs Documents
+![title](images/img.jpg)  
+
+## Overleaf UI
+![title](images/img2.png)  
+
+## Lets Start Working in Overleaf (General Praspective)
+
+### Document class
+```
+\documentclass(something)
+```
+something can be: __article__, __beamer__, __book__, __letter__, __report__
+
+
+
+### Title
+
+
+## Lets Start Working in Overleaf (IEEE Formate)
+### Document class
+```
+\documentclass[conference]{IEEEtran}
+```
+
+### Basic Structure with documents begin & end
+```
+\documentclass[conference]{IEEEtran}
+
+\begin{document}
+
+
+\end{document}
+
+```
+
+### Title
+Title is not in the documents part, this title section. 
+```
+\documentclass[conference]{IEEEtran}
+
+\title{An Effective DNN based ResNet Approach for Satellite Image Classification}
+
+\begin{document}
+
+
+\end{document}
+```
+__if you compile, there will be an error because the title is not defined in the document section. so proper xml will be 
+
+```
+\documentclass[conference]{IEEEtran}
+
+\title{An Effective DNN based ResNet Approach for Satellite Image Classification}
+
+\begin{document}
+
+\maketitle
+
+\end{document}
+```
+
+
+
+
