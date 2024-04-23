@@ -88,7 +88,7 @@ Title is not in the documents part, this title section.
 
 \end{document}
 ```
-__if you compile, there will be an error because the title is not defined in the document section. so proper xml will be 
+__if you compile, there will be an error because the title is not defined in the document section. so proper xml will be__
 
 ```
 \documentclass[conference]{IEEEtran}
